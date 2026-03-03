@@ -1,0 +1,14 @@
+- Paragraph 1 (Similarity)
+	- Basis of Comparison
+	- Point
+	- Evidence A
+	- Evidence B
+	- Explanation
+- Paragraph 2 (Difference)
+	- Basis of Comparison
+	- Point A
+	- Evidence A
+	- Explanation A
+	- Point B
+	- Evidence B
+	- Explanation B

@@ -1,0 +1,12 @@
+- Paragraph 1
+	- Mirror
+	- Point
+	- Evidence
+	- Explanation
+	- Context
+- Paragraph 2
+	- Mirror
+	- Point
+	- Evidence
+	- Explanation
+	- Context

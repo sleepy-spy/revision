@@ -1,0 +1,12 @@
+- Paragraph 1 (Reliable)
+	- Point
+	- Evidence A
+	- Evidence B
+	- Explanation
+- Paragraph 2 (Unreliable)
+	- Point A
+	- Evidence A
+	- Explanation A
+	- Point B
+	- Evidence B
+	- Explanation B

@@ -1,0 +1,3 @@
+- Wave are a disturbance that propagates through space that transfers energy with it without transferring matter
+- A wave is made up or periodic motion (a motion that repeats at regular intervals)
+- The source of any wave is an oscillation or vibration

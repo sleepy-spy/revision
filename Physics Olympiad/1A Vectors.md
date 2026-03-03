@@ -1,0 +1,1 @@
+Not much here. Just split the vector into it's components, and remember what the dot and cross product are.

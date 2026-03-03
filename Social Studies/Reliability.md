@@ -1,0 +1,22 @@
+## If the question uses a different verb (prove, useful etc.), show reliability then how it shows/does not show the verb
+- Paragraph 1 (Reliable)
+	- Point: The source is reliable in showing that... (mirror the question and inference) as it says that (point)
+	- Evidence from base source: (base source) says that... (quote the base source)
+	- Explanation of base source: This shows that... (explain the base source evidence in relation to the question focus)
+	- Evidence from x-ref: Source X supports the source, as it says that... (quote the x-ref)
+	- Explanation of x-ref: This shows that... (explain the x-ref evidence in relation to the question focus)
+	- Conclusion: Since Source X supports (base source), (base source) is reliable in... (question focus)
+# OR
+- Paragraph 1 (Unreliable)
+	- Point: The source is unreliable in showing that... (mirror the question and inference) as it says that... (point)
+	- Evidence from base source: (base source) says that... (quote the base source)
+	- Explanation of base source: This shows that... (explain the base source evidence in relation to the question focus)
+	- Evidence from x-ref: However, Source X contradicts the source, as it says that... (quote the x-ref)
+	- Explanation of x-ref: This shows that... (explain the x-ref evidence in relation to the question focus)
+	- Conclusion: Since Source X contradicts (base source), (base source) is reliable in... (question focus)
+# AND
+- HLA Paragraph (Evaluate reliability of the author)
+	- Author's Identity: (talk about who the author is)
+	- Purpose (5A): (Author, Action Word, Audience, Aim, Anticipated Outcome)
+	- Context: (Use the context to show why the source is unreliable)
+	- Link back to question: The author has/does not have a hidden agenda, therefore the source is reliable/unreliable in showing that... (Question focus)

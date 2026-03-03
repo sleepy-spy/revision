@@ -1,0 +1,32 @@
+## Definition
+- A lens is an optical system that consists of two refracting surfaces
+- It can be made with two spherical lenses close enough together. We assume this separation is negligible, hence it is known as a thin lens
+- They are classified by comparing its thickness in the middle versus that of its edges
+## Lens Types
+### Converging Lens
+- They are thickest in the middle and thin round the edge
+- When light rays pass through a converging lens, they are bent **inwards**
+### Diverging Lens
+- They are thin in the middle and thick around the edges
+- When light rays pass through a diverging lens, they are bent **outwards**
+## Thin Converging Lens
+![[Screenshot 2026-02-20 at 12.05.55 AM.png]]
+### Key Terms
+- Optical Centre
+	- It is the midpoint between the lens surfaces for a symmetrical biconcave lens
+	- Light ray that passes through the optical centre will not be deflected
+- Principal Axis
+	- It is an imaginary line that passes through the optical centre of the lens and is perpendicular to the vertical plane of the lens
+- Focal Length, $f$
+	- It is the distance between the optical centre of the lens and the focal point
+- Principal focus, or focal point, F
+	- A point on the principal axis where all light rays parallel to the principal axis pass through after refracting through the lens
+	- For a symmetrical biconcave lens, there will be two principal foci, one on each side of the lens
+- Focal plane
+	- A plane perpendicular to the principal axis that passes through F where light rays will be focused on the screen to display an image
+- Object distance, $u$
+	- Distance between the object and the optical centre
+- Image distance, $v$
+	- Distance between the image and the optical centre
+## [[Images Formed by Converging Lenses]]
+$$\mathrm{linear\ magnification} = \frac{\mathrm{image\ height}}{\mathrm{object\ height}} = \frac{\mathrm{image\ distance}}{\mathrm{object\ distance}} = \frac{v}{u}$$

@@ -1,0 +1,4 @@
+- 5A: The author posted this because the author wanted to (**A**ction Word) (**A**udience) that (**A**im) so that they would (change of **A**ctions and **A**ttitude)
+- Evidence: Source X says that... (quote the base source)
+- Explanation: This shows that... (explain the base source evidence in relation to the question focus)
+- Context: The author wanted to achieve this purpose because...
