@@ -1,2 +1,21 @@
-*/.obsidian/*
+# Obsidian config folder
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/
+*/.obsidian/
+
+# Optional: ignore all Obsidian config (if you don’t want to sync settings)
+# .obsidian/
+
+# OS-specific
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.swp
