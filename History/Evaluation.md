@@ -1,17 +1,21 @@
 ### 2 Agree and 2 Disagree
 - Paragraph 1 (Agree)
-	- Point: Source X supports/does not support (question focus) as it says that... (make an inference/point on the question focus)
-	- Evidence: Source X states that... (quote the base source)
-	- Explanation: This shows that... (explain the base source evidence in relation to the question focus)
+	- Mirror
+	- Point
+	- Evidence
+	- Explanation
 - Paragraph 2 (Disagree)
-	- Point: Source X supports/does not support (question focus) as it says that... (make an inference/point on the question focus)
-	- Evidence: Source X states that... (quote the base source)
-	- Explanation: This shows that... (explain the base source evidence in relation to the question focus)
+	- Mirror
+	- Point
+	- Evidence
+	- Explanation
 - Paragraph 3 (Agree)
-	- Point: Source X supports/does not support (question focus) as it says that... (make an inference/point on the question focus)
-	- Evidence: Source X states that... (quote the base source)
-	- Explanation: This shows that... (explain the base source evidence in relation to the question focus)
+	- Mirror
+	- Point
+	- Evidence
+	- Explanation
 - Paragraph 4 (Disagree)
-	- Point: Source X supports/does not support (question focus) as it says that... (make an inference/point on the question focus)
-	- Evidence: Source X states that... (quote the base source)
-	- Explanation: This shows that... (explain the base source evidence in relation to the question focus)
+	- Mirror
+	- Point
+	- Evidence
+	- Explanation
