@@ -7,6 +7,7 @@
 - Cultural
 - Environment
 ## Driving Forces of Globalisation
+- Ideas and activities in different parts of the world become interconnected, creating interdependencies among countries
 - Development in Transportation Technology
 - Development in Digital Technology
 - Growth of MNCs

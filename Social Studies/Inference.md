@@ -1,3 +1,4 @@
-- Point: Source A shows that... (make an inference/point on the question focus)
-- Evidence: Source X says that.. (quote the base source)
-- Explanation: This shows that...  (explain the base source evidence in relation to the question focus)
+- Paragraph 1
+	- Point
+	- Evidence
+	- Explanation
