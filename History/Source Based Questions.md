@@ -3,5 +3,4 @@
 [[Purpose]]
 [[Comparison]]
 [[Reliability]]
-[[Utility (Adapt from Reliability)]]
 [[Evaluation]]

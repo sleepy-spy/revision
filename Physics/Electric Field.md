@@ -8,4 +8,3 @@
 - The greater the amount of source charge, the greater the number of electric field lines
 ## Radially symmetric electric field near two point source charges
 - Draw at least 8 electric field lines starting from each positive charge ending at each negative charge to represent the electric field that is symmetric about the straight line connecting the two charges
-#

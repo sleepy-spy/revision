@@ -10,4 +10,6 @@
 ## How to store a logic state using an S-R Latch
 ### Storing
 - When both $S=0$ and $R=0$, the states of $Q$ and $\bar{Q}$ remain unchanged
-- 
+- When $S= 1$ and $R = 0$, $Q = 1$ and $\bar{Q} = 0$
+- When $S= 0$ and $R = 1$, $Q = 0$ and $\bar{Q} = 1$
+- $S = 1$ and $R = 1$ is undefined, as both $Q$ and $\bar{Q}$ will be 0. But by definition, they should be the in different states.
