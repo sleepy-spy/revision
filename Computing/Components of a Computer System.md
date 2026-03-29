@@ -1,16 +1,28 @@
 
-| Role | Description |
-|------|-------------|
-| Processor | Processes data and follows instructions |
-| Memory | Stores data and instructions temporarily for immediate use by the processor |
+| Role              | Description                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| Processor         | Processes data and follows instructions                                                 |
+| Memory            | Stores data and instructions temporarily for immediate use by the processor             |
 | Secondary storage | Stores large amounts of data that will not be lost when the power supply is interrupted |
-| Data bus | Transports data between memory and processor; bi-directional |
-| Address bus | Transports required memory location from processor to memory; uni-directional |
-| Input | Data or instructions that the computer receives |
-| Output | Intermediate or final results produced by the computer; usually in the form of processed data 
-[[Processor]]
-[[Main Memory]]
-[[Secondary Storage]]
-[[Data and Address Buses]]
-[[Input and Output Interfaces]]
+# Data and Address Buses
+## Data Bus
+- The data bus transports data that is going to be processed to the CPU, and transports data that has already been processed from the CPU. The data bus is bi-directional because data can be sent in both directions between the processor and memory.
+## Address Bus
+- The address bus specifies memory address information. When the processor reads from or writes to the memory, the relevant address information is provided on the address bus. The address bus is uni-directional because address information is always sent in one direction only, that is, from the processor to the memory.
+# Input/Output Interfaces
+| Interface                                               | Typical Applications                                                                    | Connectors                                                                     | Maximum Speed                                                                                                                                                          |
+| :------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Universal Serial Bus (USB)                              | For powering and communicating with external devices, like printers, mice and keyboards | 1. USB Type A<br>2. USB Micro<br>3. USB Type B<br>4. USB Type C<br>5. USB Mini | 1. USB 2.0: 480Mbit/s<br>2. USB 3.2: 20Gbit/s<br>3. USB 4: 80Gbit/s                                                                                                    |
+| High-Definition Multimedia Interface (HDMI)             | For delivering audio and video data to compatible devices, like monitors or televisions | 1. HDMI Standard<br>2. HDMI Mini<br>3. HDMI Micro                              | 1. HDMI 1.3-1.4b: 10.2Gbit/s<br>2. HDMI 2.0-2.0b: 18Gbit/s<br>3. HDMI 2.1: 48Gbit/s                                                                                    |
+| Peripheral Component Interconnect Express (PCI Express) | For communicating with internal expansion cards, like graphics cards or memory cards    | 1. PCI-e x1<br>2. PCI-e x4<br>3. PCI-e x8<br>4. PCI-e x16                      | Increases with number of lanes (up to x16)<br><br>Max speed per lane:<br>1. PCI Express 5.0: 4.0 GB/s<br>2. PCI Express 6.0: 8.0 GB/s<br>3. PCI Express 7.0: 16.0 GB/s |
+# Types of Storage Media
+| Type               | Magnetic                                                                                                                                   | Optical                                                                                                                               | Solid-State                                                                                                                 |
+| :----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Description        | Data is stored on a magnetic material that can be read or written by a magnetic "head"<br><br>Example: hard disk<br>Example: magnetic tape | Data is stored as very small pits or indentations that can be read or written by a laser<br><br>Example: digital versatile disc (DVD) | Data is stored in electronic circuits that have no moving parts<br><br>Example: memory cards<br>Example:  solid-state drive |
+| Durability         | More vulnerable to damage from:<br>- magnetic fields,<br>- heat,<br>- impact, and<br>- natural deterioration over time                     | Vulnerable to damage from:<br>- scratches, and<br>- natural deterioration over time<br>More resistance to:<br>- heat<br>- impact      | Most durable; Most resistance to:<br>- impact, and<br>- temperature changes                                                 |
+| Portability        | Heavier and bulkier than optical and solid-state media                                                                                     | Portable due to small size and light weight                                                                                           | Portable due to small size and light weight                                                                                 |
+| Typical Capacities | Up to TBs of data                                                                                                                          | Up to GBs of data                                                                                                                     | Up to TBs of data                                                                                                           |
+| Cost per GB        | Lowest                                                                                                                                     | Lower cost than solid-state media but higher cost than magnetic media                                                                 | Highest                                                                                                                     |
+| Speed              | Slower than solid-state media                                                                                                              | Slower than solid-state media                                                                                                         | Faster than magnetic and optical media                                                                                      |
+
 

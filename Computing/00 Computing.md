@@ -8,7 +8,7 @@ This is your new *vault*.
 [[Chapter 7 - Algorithm Design]]
 [[Chapter 8 - Software Engineering]]
 [[Chapter 9 - Spreadsheets]]
-[[Chapter 10 - Network]]
+[[Chapter 10 - Networking]]
 [[Chapter 11 - Security and Privacy]]
 [[Chapter 12 - Intellectual Property]]
 [[Chapter 13 - Impact of Computing]]
