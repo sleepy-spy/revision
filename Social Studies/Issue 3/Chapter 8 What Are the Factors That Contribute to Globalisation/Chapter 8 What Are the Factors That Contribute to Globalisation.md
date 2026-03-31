@@ -7,7 +7,8 @@
 - Cultural
 - Environment
 ## Driving Forces of Globalisation
-- Development in Transportation Technology
+[[Technological advancements]]
+[[Growth of multinational corporations]]
 - Development in Digital Technology
 - Growth of MNCs
 	- Ideas and activities in different parts of the world become interconnected, creating interdependencies among countries
