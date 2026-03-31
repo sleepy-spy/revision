@@ -6,7 +6,7 @@
 	- Explanation
 	- Logic
 OR
-- Paragraph 2 (Unreliable)
+- Paragraph 1 (Unreliable)
 	- Mirror
 	- Point A
 	- Evidence A
@@ -15,3 +15,6 @@ OR
 	- Evidence B
 	- Explanation B
 	- Logic
+AND
+- Paragraph 2 (Purpose HLA)
+	- [[Purpose]]

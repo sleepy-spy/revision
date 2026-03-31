@@ -1,7 +1,7 @@
 - Paragraph 1
-	- Mirror + Point
-	- 5A
+	- Mirror + Message
+	- Audience
+	- Outcome
 	- Evidence
 	- Explanation
-	- 
 	- Context
