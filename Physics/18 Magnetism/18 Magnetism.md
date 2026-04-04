@@ -1,0 +1,8 @@
+[[18.1 Magnets and magnetic materials]]
+[[18.2 Properties of magnets]]
+[[18.3 Identifying a magnet]]
+[[18.4 Proximity induced magnetism]]
+[[18.5 Magnetisation of magnetic materials]]
+[[18.6 Demagnetisation of magnetic materials]]
+[[18.7 Temporary and permanent magnets]]
+[[18.8 Magnetic field]]
