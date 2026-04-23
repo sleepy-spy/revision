@@ -1,20 +1,13 @@
-- Paragraph 1 (Reliable)
-	- Mirror
-	- Point
-	- Evidence A
-	- Evidence B
-	- Explanation
+- Paragraph 1
+	- Mirror + Point 1
+	- Evidence 1
+	- Explanation 2
+	- X-Ref + Point 2
+	- Evidence Other
+	- Explanation Other
 	- Logic
-OR
-- Paragraph 1 (Unreliable)
-	- Mirror
-	- Point A
-	- Evidence A
-	- Explanation A
-	- Point B
-	- Evidence B
-	- Explanation B
+- HLA Paragraph (Evaluate reliability of the author)
+	- Author's Identity
+	- 5A
+	- Context
 	- Logic
-AND
-- Paragraph 2 (Purpose HLA)
-	- [[Purpose]]

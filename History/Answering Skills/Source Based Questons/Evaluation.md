@@ -1,21 +1,17 @@
 ### 2 Agree and 2 Disagree
 - Paragraph 1 (Agree)
-	- Mirror
-	- Point
+	- Mirror + Point
 	- Evidence
 	- Explanation
 - Paragraph 2 (Disagree)
-	- Mirror
-	- Point
+	- Mirror + Point
 	- Evidence
 	- Explanation
 - Paragraph 3 (Agree)
-	- Mirror
-	- Point
+	- Mirror + Point
 	- Evidence
 	- Explanation
 - Paragraph 4 (Disagree)
-	- Mirror
-	- Point
+	- Mirror + Point
 	- Evidence
 	- Explanation

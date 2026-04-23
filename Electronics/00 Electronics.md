@@ -7,7 +7,7 @@ This is your new *vault*.
 [[Unit 6 Capacitors]]
 [[Unit 7 Diodes]]
 [[Unit 8 Input and Output Transducers]]
-[[Unit 9A Bipolar Junction Transistors]]
+[[Unit 9.1 Bipolar Junction Transistors]]
 [[Unit 9B Operational Amplifiers]]
 [[Unit 10 Basics of Digital Electronics]]
 [[Unit 11 Basic Logic Gates]]

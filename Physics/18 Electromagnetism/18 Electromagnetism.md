@@ -1,0 +1,5 @@
+[[18.1 Magnetic Effect of Current]]
+[[18.2 Applications of Magnetic Effect of Current]]
+[[18.3 Lorentz Force]]
+[[18.4 Force on a Moving Charge in a Magnetic Field]]
+[[18.5 The D.C. Motor]]

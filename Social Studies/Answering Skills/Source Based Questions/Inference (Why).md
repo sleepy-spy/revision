@@ -1,4 +1,0 @@
-- Point: The message of the source is... (make an inference/key message on the question focus)
-- Evidence: Source X says that... (quote the base source)
-- Explanation: This shows that... (explain the base source evidence in relation to the question focus)
-- Context: This message is significant because...

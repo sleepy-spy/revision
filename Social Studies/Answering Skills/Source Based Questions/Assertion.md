@@ -1,39 +1,17 @@
-
+# 2 Agree and 2 Disagree
 - Paragraph 1 (Agree)
-	- Mirror
-	- Point
+	- Mirror + X-Ref + Point
 	- Evidence
 	- BSA
 - Paragraph 2 (Disagree)
-	- Mirror
-	- Point
+	- Mirror + X-Ref + Point
 	- Evidence
 	- BSA
 - Paragraph 3 (Agree)
-	- Mirror
-	- Point
+	- Mirror + X-Ref + Point
 	- Evidence
 	- BSA
 - Paragraph 4 (Disagree)
-	- Mirror
-	- Point
+	- Mirror + X-Ref + Point
 	- Evidence
 	- BSA
-
-- Role Based
-	- Paragraph 1 (Given Agent)
-		- Point: I agree that (Given Agent in relation to issue) because Source X supports it. Source X tells me that (Point)
-		- Evidence: Source X states that "..."
-		- BSA: This shows that because... So... As a result
-	- Paragraph 2 (Other Agent)
-		- Point: I do not agree that (Given Agent in relation to issue) because Source X does not support it. Source X tells me that (Point - Other agent more important)
-		- Evidence: Source X states that "..."
-		- BSA: This shows that because... So... As a result
-	- Paragraph 3 (Given Agent)
-		- Point: I agree that (Given Agent in relation to issue) because Source X supports it. Source X tells me that (Point)
-		- Evidence: Source X states that "..."
-		- BSA: This shows that because... So... As a result
-	- Paragraph 4 (Other Agent)
-		- Point: I do not agree that (Given Agent in relation to issue) because Source X does not support it. Source X tells me that (Point - Other agent more important)
-		- Evidence: Source X states that "..."
-		- BSA: This shows that because... So... As a result

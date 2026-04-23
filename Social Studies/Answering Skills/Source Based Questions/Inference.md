@@ -1,4 +1,4 @@
 - Paragraph 1
-	- Point
+	- Mirror + Point
 	- Evidence
 	- Explanation

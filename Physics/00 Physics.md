@@ -15,6 +15,9 @@ This is your new *vault*.
 [[14 Current of Electricity]]
 [[15 DC Circuits]]
 [[16 Practical Electricity]]
+[[17 Magnetism]]
+[[18 Electromagnetism]]
+[[19 Electromagnetic Induction]]
 
 
 

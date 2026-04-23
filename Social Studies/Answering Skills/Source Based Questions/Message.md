@@ -1,5 +1,5 @@
 - Paragraph 1
-	- Mirror + 5A
+	- Mirror + Point
 	- Evidence
 	- Explanation
 	- Context

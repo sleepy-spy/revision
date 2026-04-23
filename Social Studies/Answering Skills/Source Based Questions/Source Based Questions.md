@@ -1,7 +1,7 @@
 [[Inference]]
-[[Inference (Why)]]
-[[Inference (Message)]]
-[[Compare and Contrast]]
+[[Purpose]]
+[[Message]]
+[[Comparison]]
 [[Reliability]]
 [[Assertion]]
 
