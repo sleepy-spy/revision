@@ -1,10 +1,9 @@
-# Wired and Wireless Networks
 - Networks can be classified as wired or wireless based on transmission medium
-## Wired Networks
+# Wired Networks
 - A wired network is a network of devices connected by a physical medium, such as cables
-## Wireless Networks
+# Wireless Networks
 - A wireless network is a network of devices in which signals are transmitted without the use of a physical medium. 
-## Factors Affecting Choice of Transmission Medium
+# Factors Affecting Choice of Transmission Medium
 | Factor                              | Wired                                                                                                               | Wireless                                                                                                                                                                       |
 | :---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Cost                                | Initially cheaper but becomes more expensive as a network grows due to need for more cables                         | Initially expensive due to the cost of wireless networking equipment but becomes more cost-effective as network grows in size                                                  |

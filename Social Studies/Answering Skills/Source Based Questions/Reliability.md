@@ -1,4 +1,12 @@
-- Paragraph 1
+- Paragraph 1 (Reliable)
+	- Mirror + Point 1
+	- Evidence 1
+	- Explanation 2
+	- X-Ref + Point 2
+	- Evidence Other
+	- Explanation Other
+	- Logic
+- Paragraph 1 (Unreliable)
 	- Mirror + Point 1
 	- Evidence 1
 	- Explanation 2

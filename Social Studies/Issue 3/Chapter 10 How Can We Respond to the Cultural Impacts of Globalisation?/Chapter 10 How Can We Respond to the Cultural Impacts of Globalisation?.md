@@ -1,5 +1,4 @@
 [[Chapter 10.1 Cultural impacts of globalisation]]
-[[Chapter 10.2 Responses to cultural impacts of globalisation]]
 
 | Hybridisation                            | Homogenisation                    |
 | :--------------------------------------- | --------------------------------- |
