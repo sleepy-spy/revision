@@ -1,0 +1,2 @@
+- Its resistance ($R$) is directly proportional to its resistivity ($\rho$)
+- Hence, the higher the resistivity of the material, the higher the resistance of the conductor (assuming both length and cross-sectional area remain the same)

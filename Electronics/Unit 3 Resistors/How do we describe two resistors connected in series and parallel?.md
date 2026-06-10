@@ -1,0 +1,2 @@
+- When two resistors are connected in series, we say that they are on the same electrical path.
+- When two resistors are connected in parallel, we say that they are on different electrical paths with the same starting and ending points. 

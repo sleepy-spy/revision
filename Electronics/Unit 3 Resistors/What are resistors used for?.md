@@ -1,0 +1,2 @@
+- They are used to control the currents in a circuit.    
+- They can also be used to attain a desired voltage at a particular point of a circuit.

@@ -1,0 +1,1 @@
+- It is the maximum power that a resistor can safely tolerate without overheating.

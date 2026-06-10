@@ -1,0 +1,2 @@
+- First calculate the actual power that will be dissipated by the resistor
+- Then pick a resistor with a power rating that is double the actual power dissipated

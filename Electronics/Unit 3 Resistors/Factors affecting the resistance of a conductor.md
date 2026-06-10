@@ -1,0 +1,4 @@
+- Length of a conductor, $\ell$
+- Cross-sectional area of the conductor, $A$
+- Material of the conductor, specifically the the resistivity of the material, $\rho$
+- Temperature of the conductor
