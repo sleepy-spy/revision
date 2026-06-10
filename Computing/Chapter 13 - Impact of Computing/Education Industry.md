@@ -1,0 +1,7 @@
+- Increased accessibility of educational resources over the Internet.
+- Enhancement of personalised learning with digital learning resources.
+- Increased use of interactive and multimedia resources.
+- Enhanced communication and collaboration tools.
+- Growth of distance and online learning.
+- Enabling of automated and adaptive assessment and feedback.
+- Increased need for digital literacy.

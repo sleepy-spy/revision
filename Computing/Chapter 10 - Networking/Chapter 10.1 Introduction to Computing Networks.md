@@ -1,10 +1,4 @@
 # What is a Computer Network
-- A computer network is a system of two or more computers (or devices) that are connected together by transmission medium for the exchange of data
-## Advantages and Disadvantages
-| Advantages                                                                                    | Disadvantages                                                                                                                                                                                           |
-| :-------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Share Storage and Resources: Allows group of computers to make use of share resources         | Initial costs: Installing a network could be costly due to the high setup and equipment costs.                                                                                                          |
-| Shared Internet Access: Every user who logs on to the network may have access to the internet | Maintenance costs: There are also subsequent costs associated with administering and maintaining the network                                                                                            |
-| Shared software:                                                                              | Security risks: Since files are shares through a network, there is risk of unauthorised access to data and virus or worm attacks spreading throughout the network even through a single infected device |
-|                                                                                               | Server outage: If the server fails, the network will not be able to function, thus affecting work processes.                                                                                            |
-|                                                                                               | Risk of data loss: Data may become lost due to hardware failures or errors. Using a network means regular data backups are needed.                                                                      |
+[[What is a Computer Network]]
+
+

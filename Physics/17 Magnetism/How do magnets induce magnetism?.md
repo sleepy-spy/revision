@@ -1,0 +1,8 @@
+- When a bar magnet is brought near, the material is magnetised by induced magnetism
+- In a magnetised material:
+	- Magnetic domains are aligned in the same direction
+	- In the middle of the material:
+	    - The north and south poles of adjacent domains cancel each other out
+	- At both ends of the material:
+	    - The atomic magnets are free and produce North and South poles
+- The atomic magnets at the ends tend to fan out due to repulsion between like poles

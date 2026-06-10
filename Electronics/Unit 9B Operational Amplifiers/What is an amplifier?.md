@@ -1,0 +1,2 @@
+- It is a circuit that increases the magnitude of a signal’s voltage, current and/or power. 
+- After amplification, the output is able to drive loads, as some loads require more voltage, current and/or power

@@ -1,0 +1,1 @@
+- The work must have an identifiable owner or author for legal rights to be assigned to. In Singapore, only humans can be recognised as authors under the Copyright Act

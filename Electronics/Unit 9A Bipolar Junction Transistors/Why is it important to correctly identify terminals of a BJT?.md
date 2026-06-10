@@ -1,0 +1,2 @@
+- To connect the BJT properly
+- To avoid damaging the BJT by connecting it wrongly

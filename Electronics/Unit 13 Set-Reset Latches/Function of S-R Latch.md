@@ -1,0 +1,2 @@
+- A S-R Latch can store a logic state
+- This ability makes it useful in situations where a momentary occurrence needs to be converted into permanent output

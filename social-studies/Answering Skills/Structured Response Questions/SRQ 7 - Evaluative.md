@@ -1,0 +1,16 @@
+- Paragraph 1 (Factor 1)
+	- Point
+	- Elaboration
+	- Example
+	- Explanation
+	- Link
+- Paragraph 2 (Factor 2)
+	- Point
+	- Elaboration
+	- Example
+	- Explanation
+	- Link
+- Evaluation of Factor 1 and 2
+	- Distinguish between 2 factors
+		- Scope of Impact (How widely is this impact distributed)
+		- Depth of Impact (How comprehensive is this impact)

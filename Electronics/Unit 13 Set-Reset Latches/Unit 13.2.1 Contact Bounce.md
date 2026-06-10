@@ -1,0 +1,2 @@
+- When a mechanical switch is closed, its contacts may connect and disconnect several times before a firm connection is established. This is known as contact bounce.
+- This can also happen when a mechanical switch is opened. Its contacts may connect and disconnect several times before they totally break away from each other.

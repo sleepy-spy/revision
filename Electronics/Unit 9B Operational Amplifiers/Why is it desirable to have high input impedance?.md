@@ -1,0 +1,2 @@
+- Reduced the loading effect on the previous stage (i.e. distorts the incoming signal less)
+- Reduces the current drawn from the previous stage

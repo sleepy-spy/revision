@@ -1,0 +1,5 @@
+- A small current into the base controls a larger current flowing between the collector and emitter
+- $I_\mathrm{E} = I_\mathrm{C} + I_\mathrm{B}$
+- $\text{DC Current Gain, } \beta_\mathrm{DC} = \frac{I_\mathrm{C}}{I_\mathrm{B}}$
+- $\beta_\mathrm{DC}$ is also denoted as $\mathrm{h}_\mathrm{FE}$ in many datasheets, and typically ranges from 20 to 300.
+	- It is dimensionless, since it is ratio between two currents

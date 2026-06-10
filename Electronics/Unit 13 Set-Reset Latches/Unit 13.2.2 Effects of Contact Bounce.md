@@ -1,0 +1,1 @@
+- When the logic switch is opened/closed, the contact bounce will cause the output signal to change rapidly multiple times before coming to steady state.

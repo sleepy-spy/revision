@@ -1,0 +1,3 @@
+- The switching speed will be slower as the base current first needs to switch on $Q_1$, which will then switch on $Q_2$.
+- There are two PN junctions between the base of $Q_1$ and the emitter of $Q_2$, meaning that the activation voltage of the Darlington Pair will be double that of a single BJT
+- There is a bigger voltage drop across the collector and emitter in the saturation region. For a single BJT, $V_\text{CE(sat)}$ is around 0.2V. But for a Darlington Pair, $V_{CE(sat)}$ is around 0.9V. This means that there will be a lower voltage across the load

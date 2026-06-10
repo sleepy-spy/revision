@@ -1,0 +1,1 @@
+- Copyright is the legal right of owners to control the use and distribution of their intellectual property

@@ -1,7 +1,0 @@
-## Loading Effect
-- It is the effect of a load on a signal source.
-- Should be minimised as it will distort incoming signal
-- The lower the resistance of the load, the larger the loading effect; The higher the current drawn by the load, the larger the loading effect
-## Input Impedance
-
-

@@ -1,0 +1,1 @@
+- Hammering the magnet in the east-west direction randomises the alignment of the magnetic domains, causing it to lose its magnetism

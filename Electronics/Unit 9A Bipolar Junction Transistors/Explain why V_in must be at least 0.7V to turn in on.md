@@ -1,0 +1,1 @@
+- The base and emitter form a diode which requires at least 0.7V to overcome its knee voltage

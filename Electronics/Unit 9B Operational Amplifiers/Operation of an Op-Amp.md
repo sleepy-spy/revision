@@ -1,0 +1,3 @@
+- Amplifies the difference between the input signals by a factor equal to its open loop gain ($A_{ol}$)
+	- $V_{out} = A_{ol}(V_{in+} - V_{in-}$)
+- When $V_{in+} > V_{in-}$, it's $V_{out}$ will be positive, and vice versa

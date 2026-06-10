@@ -1,5 +1,11 @@
-[[Chapter 10.2.1 Wired and Wireless Networks]]
-[[Chapter 10.2.2 LANs and WANs]]
-[[Chapter 10.2.3 Open Systems Interconnection (OSI)]]
-[[Chapter 10.2.4 Client-Server Network and P2P Networks]]
+# Wired and Wireless Networks
+[[Wired and Wireless Networks]]
+# LANs and WANs
+[[LANs and WANs]]
+# Network Protocols
+- Set of standards and rules that govern how two or more devices communicate over a network
+# Open Systems Interconnection (OSI)
+[[Open Systems Interconnection (OSI)]]
+# Client-Server Network and P2P Networks
+[[Client-Server Network and P2P Networks]]
 

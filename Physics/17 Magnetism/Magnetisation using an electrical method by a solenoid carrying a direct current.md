@@ -1,0 +1,8 @@
+- Place a magnetic material inside a solenoid carrying a direct current
+- Determine the poles of the magnet using the right hand grip rule
+	- Grip the solenoid using your right hand
+	- Curl fingers in the direction of the current flowing through the solenoid
+	- The thumb points in the direction of induced North Pole
+- Magnetic field strength of an electromagnet can be increased by
+	- Passing a larger current through the coil
+	- Increasing the number of turns per unit length of the coil

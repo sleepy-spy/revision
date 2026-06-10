@@ -1,0 +1,3 @@
+- Amplifiers are used when small signals need to be made bigger
+	- In an audio amplifier, a small signal from the microphone is amplified into a large signal so that it can be played on a loudspeaker
+	- In a heartbeat monitoring system, a small signal picked up by the heartbeat sensor from the heart is amplified into a large signal so that it can be analysed and displayed

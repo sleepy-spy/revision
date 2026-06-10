@@ -6,5 +6,5 @@ This is your new *vault*.
 [[Chapter 4 - The Outbreak of World War II in Europe]]
 [[Chapter 5 - The Outbreak of World War II in Asia-Pacific]]
 [[Chapter 6 - The End of World War II in Europe and the Asia-Pacific]] 
-
-
+[[Chapter 10 - ]]
+•

@@ -1,0 +1,4 @@
+- Has two inputs and one output
+	- $V_{in+}$ (Non inverting input)
+	- $V_{in-}$ (Inverting input)
+	- $V_{out}$ (Output)

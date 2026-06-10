@@ -1,0 +1,3 @@
+- An unmagnetised material can be magnetised when it is repeatedly stroked by a magnet using the same pole
+- The magnet is lifted high above the magnetic material after each stroke
+- An **opposite pole** is induced on the end where the magnet leaves the bar

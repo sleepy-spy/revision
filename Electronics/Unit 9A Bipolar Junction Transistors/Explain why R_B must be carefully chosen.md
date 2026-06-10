@@ -1,0 +1,2 @@
+- If $R_\mathrm{B}$ is too large, $I_\mathrm{B}$ will be too small to turn on the BJT
+- If $R_\mathrm{B}$ is too small, $I_\mathrm{B}$ will be too large and damage the BJT

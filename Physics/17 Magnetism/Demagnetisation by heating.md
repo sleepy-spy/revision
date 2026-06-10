@@ -1,0 +1,2 @@
+- As temperature increases during heating, the atoms of the magnet vibrate more vigorously about their fixed positions, causing them to lose their common alignment
+- Letting the hot de-magnetised material cool in the east-west direction ensures that the magnetic domains do not re-align due to Earth's magnetic field

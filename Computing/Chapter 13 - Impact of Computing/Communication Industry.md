@@ -1,0 +1,6 @@
+- Transition from analogue to digital transmission.
+- Enabling of real-time multimedia communication.
+- Growth of mobile computing and smartphones.
+- Increased accessibility of communication tools and globalisation.
+- Growth of social media and misinformation.
+- Increased security and privacy risks due to cyberattacks.

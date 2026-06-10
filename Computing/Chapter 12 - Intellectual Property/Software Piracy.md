@@ -1,0 +1,1 @@
+- The crime of copying, distributing and/or using copyrighted software in a manner that is not permitted within its license

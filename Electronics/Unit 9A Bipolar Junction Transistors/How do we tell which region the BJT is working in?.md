@@ -1,0 +1,4 @@
+- Determine $V_\mathrm{CE}$
+	- $V_\mathrm{CE} \approx 0 \to \text{saturation region}$
+	- $V_\mathrm{CE} \approx V_\mathrm{CC} \to \text{cutoff region}$
+	- $V_\mathrm{CE} \text{ above 0V and below } V_\mathrm{CC} \to \text{active region}$

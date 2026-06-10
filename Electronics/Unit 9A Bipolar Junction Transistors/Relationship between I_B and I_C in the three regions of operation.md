@@ -1,0 +1,4 @@
+- In the cutoff region, $I_\mathrm{B} = 0$ and $I_\mathrm{C}$ is close to 0
+- In the active region, $I_\mathrm{C}$ increases linearly with $I_\mathrm{B}$
+	- $I_\mathrm{C} = -\frac{1}{R_\mathrm{C}}V_\mathrm{CE} + \frac{V_\mathrm{CC}}{R_\mathrm{C}}$
+- In the saturation region, $I_\mathrm{C}$ remains at maximum value even if $I_\mathrm{B}$ increases further

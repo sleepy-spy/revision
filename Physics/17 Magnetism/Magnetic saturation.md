@@ -1,0 +1,3 @@
+- If all magnetic domains point in the same direction:
+  - The magnet is magnetically saturated
+  - It cannot be any stronger

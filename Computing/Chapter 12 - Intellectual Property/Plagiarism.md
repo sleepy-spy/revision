@@ -1,0 +1,1 @@
+- The act of passing off someone else's original work as your own, and is a serious ethical offence and can tarnish one's reputation

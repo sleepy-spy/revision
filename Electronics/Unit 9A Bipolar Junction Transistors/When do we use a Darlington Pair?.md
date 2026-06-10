@@ -1,0 +1,1 @@
+- When the current of the input signal is too small to drive a single BJT into the saturation region, we can use a Darlington Pair

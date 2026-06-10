@@ -1,0 +1,2 @@
+- Highest $V_{out}$ is approximately $V_{cc} - 1.5V$
+- Lowest $V_{out}$ is approximately $V_{ee}$

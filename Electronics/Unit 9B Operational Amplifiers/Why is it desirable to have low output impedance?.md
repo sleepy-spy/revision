@@ -1,0 +1,2 @@
+- Reduces the distortion of the outgoing signal to the next stage
+- Able to supply higher current to the next stage

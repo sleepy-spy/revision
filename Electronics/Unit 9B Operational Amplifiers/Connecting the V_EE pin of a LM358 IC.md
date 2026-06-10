@@ -1,0 +1,3 @@
+- The $V_{\text{EE}}$ pin is either connected to ground (0V) or a negative voltage supply
+- When the LM358 is used as an amplifier, $V_{\text{EE}}$ is usually connected to a negative voltage supply. This requires a more complex source, but the amplifier circuit will be simpler
+- When the LM358 is used as a voltage vollower, $V_{\text{EE}}$ is usually connected to ground (0V)

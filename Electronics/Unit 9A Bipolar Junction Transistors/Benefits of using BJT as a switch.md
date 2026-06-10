@@ -1,0 +1,3 @@
+- Faster switching speed as the switching is done by using currents instead of physical forces
+- No wear and tear as there are no moving parts
+- No contact bounce

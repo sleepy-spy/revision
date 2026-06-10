@@ -1,0 +1,3 @@
+- Enhanced inventory management with barcodes and NFC tags.
+- Enhanced checkout process with cashless payment and self-checkout counters.
+- Growth of e-commerce sites.

@@ -1,0 +1,2 @@
+- Use NPN if you want the load to switch on when $V_\mathrm{in}$ is HIGH and switch off when $V_\mathrm{in}$ is LOW
+- Use PNP if you want the load to switch on when $V_\mathrm{in}$ is LOW and switch off when $V_\mathrm{in}$ is HIGH

@@ -1,0 +1,2 @@
+- Place the magnet inside the solenoid carrying an alternating current in the east-west direction, as the alternating magnetic field due to the alternating current randomises the alignment of the magnetic domains
+- Gradually reduce the alternating current to zero

@@ -1,0 +1,5 @@
+- Infinite open-loop voltage gain ($A_\text{OL} = \infty$)
+- Infinite input impedance
+	- Draws no current from the signal source
+	- has no loading effect
+- Zero output impedance

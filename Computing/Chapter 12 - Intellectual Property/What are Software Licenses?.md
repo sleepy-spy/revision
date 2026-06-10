@@ -1,0 +1,1 @@
+- An official description of activities that are authorised or forbidden by the owner of intellectual property

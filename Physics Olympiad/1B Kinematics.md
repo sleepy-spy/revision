@@ -4,7 +4,7 @@ $$\mathrm{Average\ Velocity} = v_{\mathrm{average}} = \frac{\Delta \vec{r}}{\Del
 $$\mathrm{Instantaneous\ Velocity} = v_{\mathrm{instant}} = \frac{\mathrm{d}\vec{r}}{\mathrm{d}t}$$
 $$\mathrm{Average\ Acceleration} = a_{\mathrm{average}} = \frac{\Delta \vec{v}}{\Delta t}$$
 $$\mathrm{Instantaneous\ Acceleration} = a_{\mathrm{instant}} = \frac{\mathrm{d}\vec{v}}{\mathrm{d}t} = \frac{\mathrm{d}^2\vec{r}}{\mathrm{d}t^2}$$
-$$\mathrm{Remember\ that\ r\ and\ v\ are\ vectors,\ so\ consider\ their\ components\ if\ 2D\ and\ above}$$
+$$\text{Remember\ that\ r\ and\ v\ are\ vectors,\ so\ consider\ their\ components\ if\ 2D\ and\ above}$$
 
 ## Kinematics Equations with Constant Acceleration (SVTA)
 $$\vec{v} = \vec{u} + \vec{a}t \tag{1}$$

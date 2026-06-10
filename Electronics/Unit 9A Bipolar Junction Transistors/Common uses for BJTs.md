@@ -1,0 +1,2 @@
+- Switch (alternates between cutoff and saturation regions)
+- Amplifier (active region)

@@ -1,0 +1,1 @@
+- $A_{ol}$ is usually very high, so small differences will lead to the Op-Amp going to be stuck at the highest or lowest possible $V_{out}$, unless we want a digital signal

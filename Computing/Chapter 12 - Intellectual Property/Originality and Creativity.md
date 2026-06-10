@@ -1,0 +1,1 @@
+- The work must be original and showcase a degree of creativity. It cannot be copied from existing works

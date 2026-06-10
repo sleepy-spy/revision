@@ -1,0 +1,7 @@
+- Turn off the fans, reducing effect of wind on motion of pendulum
+- A string pendulum should be released at a small angle
+- Allow the pendulum to oscillate in a steady manner before starting the timing
+- Place a marker at the equilibrium position of the pendulum, where the speed of the pendulum is the highest.
+- Ensure that the string pendulum oscillates in a vertical plane.
+- Stand perpendicular to the plane of oscillation when counting oscillations. This reduces parallax error.
+- Measure the time taken for 20 oscillations and divide it by 20 to find the period. This reduces the fractional error due to human reaction time.

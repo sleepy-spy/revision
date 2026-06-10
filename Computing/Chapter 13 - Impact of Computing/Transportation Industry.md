@@ -1,0 +1,4 @@
+- Enhanced navigation with the introduction of GPS.
+- Growth of smart and autonomous vehicles.
+- Enhanced traffic monitoring via data collected from mobile devices.
+- Enhanced public transportation (e.g., real-time information on schedules, cashless payments, streamlined apps for taxi booking).

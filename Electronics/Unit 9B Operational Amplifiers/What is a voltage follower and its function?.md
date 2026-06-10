@@ -1,0 +1,5 @@
+- It has high input impedance, low output impedance circuit that produces an output voltage similar to the input voltage.
+	- $V_{out} = V_{in}$
+- It has a gain of 1.
+	- $A_{cl} = 1$
+- Resolves loading effect issues and allows weak signals to drive loads without degradation.
