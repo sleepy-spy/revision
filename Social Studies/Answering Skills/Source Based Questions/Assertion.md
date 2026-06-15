@@ -1,0 +1,17 @@
+# 2 Agree and 2 Disagree
+- Paragraph 1 (Agree)
+	- Mirror + X-Ref + Point
+	- Evidence
+	- BSA
+- Paragraph 2 (Disagree)
+	- Mirror + X-Ref + Point
+	- Evidence
+	- BSA
+- Paragraph 3 (Agree)
+	- Mirror + X-Ref + Point
+	- Evidence
+	- BSA
+- Paragraph 4 (Disagree)
+	- Mirror + X-Ref + Point
+	- Evidence
+	- BSA

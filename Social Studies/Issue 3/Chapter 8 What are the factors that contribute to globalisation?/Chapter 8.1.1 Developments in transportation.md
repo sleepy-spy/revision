@@ -1,0 +1,13 @@
+# Definition
+- Technological advancements have led to improvements in land, sea and air transportation in terms of speed, capacity and cost
+
+# Examples
+
+| Case Studies       | Examples                                                                                                                                                                                                                                                                   |
+| :----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Land Transport     | In the past, the Liverpool and Manchester railway covered a distance of 50km and travelled at about 48 km/h. Now, there are bullet trains, like those of the Shinkansen, with a rail network that covered a distance of around 3478km and can travel up to 320km/h         |
+| Maritime Transport | In the past, steam-powered ships had limited carrying capacity because of its large engine and fuel. Now, container ships have very large carrying capacity, ranging from 25000 to 600000 tonnes                                                                           |
+| Air Transport      | In the 1950s, flying was considered a luxury experience, and those who were not rich could not afford it. Now, with the rise of low-cost airlines, the cost of flights have decreased. With lower air fares, more people are able to afford air travel                     |
+| Containerisation   | Containerisation is a method of transport goods in large standardised containers, which could be stacked on container ships. These containers enabled large volumes of goods to be transported, making cargo handling in ports more efficient, and reducing shipping costs |
+# Explanation
+- Developments has led to a shrinking world as people, goods and services are able to move around the world more quickly, in larger volumes and at lower costs. Business activities and ideas are thus becoming more interconnected and interdependent globally

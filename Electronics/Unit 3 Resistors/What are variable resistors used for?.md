@@ -1,0 +1,4 @@
+- They allow users to adjust their resistance to change the currents in a circuit to achieve a certain effect, e.g.,
+	- adjust the brightness of a bulb,
+	- adjust the speed of a motor
+- They allow users to adjust the voltage at a particular point of a circuit. 

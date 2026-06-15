@@ -1,0 +1,2 @@
+- A circuit diagram is a diagram drawn using universally recognised symbols to show how the components in electronic circuits are electrically connected together. 
+- Another name for circuit diagram is schematic diagram.

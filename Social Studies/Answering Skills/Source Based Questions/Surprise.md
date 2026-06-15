@@ -1,0 +1,16 @@
+- Paragraph 1 (Expected)
+	- Mirror + Basis Comparison
+	- Point
+	- Evidence A
+	- Evidence B
+	- Explanation
+	- Logic
+- Paragraph 2 (Unexpected)
+	- Mirror + Basis of Comparison
+	- Point A
+	- Evidence A
+	- Explanation A
+	- Point B
+	- Evidence B
+	- Explanation B
+	- Logic

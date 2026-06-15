@@ -1,0 +1,3 @@
+| Global                                                                                                                                                                                    | Country                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| - Asia Pacific Computer Emergency Response Team<br>    - An organisation is formed to fight cyber attacks through collaboration ad it helps to strengthen the region's abilityt to combat | - Cyber Security Agency (CSA) |

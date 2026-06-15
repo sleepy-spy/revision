@@ -1,9 +1,0 @@
-# Definition
-- Electronic tools, system, devices and resources that generate, store or process data, which helps facilitate communication between people, businesses and countries
-# Examples
-
-| Case Studies | Examples                                                                                                                                                                                                                                                                                                                                                                                                     |
-| :----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| CNN Digital  | In just 48 hours after the earthquake in Syria and Turkiye in 2023, five digital activists launched a website, TakeShelter, to connect displaced persons with hosts around the world offering their homes as shelter. People could sign up on TakeShelter to open their homes to displaced earthquake survivors. Displaced earthquake survivors, in turn, could search the website for nearby host families. |
-# Explanation
-- Developments in digital technologies has rapidly improved communications and accelerated globalisation, as they have enabled people to stay connected, share information and ideas and do business across vast distances and different time zones

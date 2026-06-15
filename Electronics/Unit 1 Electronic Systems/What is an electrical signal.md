@@ -1,0 +1,2 @@
+- An electrical signal is a voltage or current that carries information.
+- It is different from a voltage or a current that is used as a source of energy. 

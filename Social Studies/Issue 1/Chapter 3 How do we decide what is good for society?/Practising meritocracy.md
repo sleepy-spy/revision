@@ -1,0 +1,6 @@
+# Definition
+- It is a system that distributes opportunities to enable future successes, so that people are rewarded according to the effort they put in rather than factors such as their race, religion or family background
+# Examples
+| Case Studies   | Examples                                                                                                                                                                                                                                                                                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Edusave Awards | Students in government and specialised schools are offered awards based on their character, leadership, conduct, learning attitudes and academic performance. For example, the Edusave Scholarship is given to students who are within the top 10 per cent of their schools' level and course in terms of academic performance and have demonstrated good conduct. |

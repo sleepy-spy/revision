@@ -1,0 +1,12 @@
+- Paragraph 1 
+	- Point
+	- Elaboration
+	- Example
+	- Explanation
+	- Link
+- Paragraph 2 
+	- Point
+	- Elaboration
+	- Example
+	- Explanation
+	- Link
