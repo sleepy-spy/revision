@@ -1,1 +1,0 @@
-- The use or distribution of copyrighted work without the permission of the copyright owner

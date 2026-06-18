@@ -1,4 +1,6 @@
-# Local Area Network (LAN)
-[[Local Area Network (LAN)]]
-# Wide Area Network (WAN)
-[[Wide Area Network (WAN)]]
+| Local Area Network (LAN)                                                                                                               | Wide Area Network (WAN)                                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • Network of computing devices covering a small geographical area, typically within the same building, such as home, school or office. | • Network of computing devices covering a large-scale geographical area, typically across multiple geographical locations. <br>• Typically consists of multiple smaller networks such as LANs.<br>• Can be private or public, and are built and maintained by large multinational companies and government organisations.<br>    • The internet is an example of a public WAN |
+
+
+

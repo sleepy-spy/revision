@@ -1,1 +1,0 @@
-- Network of computing devices covering a small geographical area, typically within the same building, such as home, school or office.
