@@ -1,0 +1,6 @@
+# Definition
+- The Judiciary interprets and applies laws by making formal judgements on disputes between individuals and those between individuals and the government.
+# Examples
+| Case Study                                         | Example                                                                                                                                                                                                                                               |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contravening the COVID-19 (Temporary Measures) Act | In 2020, a woman was caught on video arguing with a passer-by who had told her to wear a mask and abide by the law. On 7 May 2021, she was sentenced to two weeks' jail and fined $2000 for failing to wear a mask as well as being a public nuisance |

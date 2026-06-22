@@ -1,0 +1,6 @@
+# Definition
+- Having good leadership means that the government has leaders who are capable, honest and incorruptible
+# Examples
+| Case Studies   | Examples                                                                                                                                                                                                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mr Lim Kim San | Mr Lim Kim San, who was the first chairman of the Housing and Development Board and Minister for National Development, led the construction of low-cost public housing from 1960. Under his leadership, HDB built 26,000 flats in just over 3 years, compared to the Singapore Improvement Trust which took 32 years to build only 23,019 units. |
