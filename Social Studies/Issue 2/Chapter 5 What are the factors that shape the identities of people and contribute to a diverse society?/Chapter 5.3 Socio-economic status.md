@@ -1,0 +1,6 @@
+# Definition
+ - Socio-economic status refers to an economic situation shared by a group of people in society. It may influence a person's choice of housing, food, entertainment, activities and friends or people they interact with.
+# Examples
+| Case Study         | Example                                                                                                                                                                                                                                                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| KidSTART Programme | The KidSTART programme is a form of added support for children aged six and below and equips parents with relevant knowledge and skills to nurture their child's early development. It is offered to families who need it most, such as those with a household income of $2500 or less, or a gross monthly per capita income of $650 or less |

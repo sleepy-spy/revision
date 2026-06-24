@@ -1,0 +1,6 @@
+# Definition
+- Nationality refers to being a citizen of or belonging to a particular country, which may result in a person feeling a shared sense of national identity and belonging to his or her country
+# Examples
+| Case Study | Example                                                                                                                                                                                                                                                                                                                      |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Anklung    | Anklung is an Indonesian musical instrument originating from West java, with roots dating to the 7th century. The anklung is closely associated with traditional customs, arts and cultural identity in Indonesia, and was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2010 |
