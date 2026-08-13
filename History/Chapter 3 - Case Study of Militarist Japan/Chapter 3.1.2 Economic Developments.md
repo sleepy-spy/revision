@@ -1,0 +1,7 @@
+# Example
+| Case Study                               | Example                                                                                                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Banking Crisis of 1927                   | In 1927, there was widespread panic that Japanese banks did not have enough money due to bad debts, and many people withdrew their deposits leading to over 20 banks collapsing              |
+| Great Depression - Farmers               | The income of farmers fell by an average of 43 per cent between 1929 and 1931. Many farmers also tried to get landowners to reduce their rent                                                |
+| Great Depression - Small Business Owners | In 1930, there were twice as may closures of small businesses as in an average year, and many joined protests movements such as the one led by the Imperial Middle Class Federated Alliance. |
+| Great Depression - Unemployment          | The Great Depression led to 15 to 20 per cent of Japan's workforce losing their jobs between 1930 and 1932. Most workers were also only entitled to 14 days' pay when they lost their jobs   |

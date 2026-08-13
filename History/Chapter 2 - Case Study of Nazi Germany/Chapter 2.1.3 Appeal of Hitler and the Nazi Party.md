@@ -1,0 +1,8 @@
+# Examples
+| Case Study                              | Example                                                                                                                                                                                                                     |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hitler's charisma and oratorical skills | Hitler was a powerful and persuasive speakers, and was years ahead of his time as a communicator. He used film, radio and print to spread his message, and travelled by plane to rallies across Germany                     |
+| Use of Propaganda                       | Nazi leaflets, newspapers and radio broadcasts blamed the economic problems on the Treaty of Versailles, especially the reparations. They also promised strong and decisive actions like rebuilding the German armed forces |
+| The SA and SS                           | The SA and SS gave the impression of discipline and order, which contrasted between the communist gangs and police having frequent street battles                                                                           |
+| Success of nazi political campaigns     | The nuremberg rallies took place in the summer every year between 1933 and 1938 to convey power of the state and convince Germans to be loyal to the Nazis                                                                  |
+

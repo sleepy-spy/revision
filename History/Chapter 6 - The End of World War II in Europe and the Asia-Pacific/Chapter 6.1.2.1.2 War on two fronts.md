@@ -1,0 +1,2 @@
+# The Two-Front War
+- When Hitler invaded the USSR in 1941, he placed Germany in a two-front war with Britain and the Soviet Union, which prevented him from concentrating his efforts and resources on a single front.

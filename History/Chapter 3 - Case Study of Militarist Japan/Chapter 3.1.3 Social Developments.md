@@ -1,0 +1,5 @@
+# Example
+| Case Study             | Example                                                                                                                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rural-Urban Divide     | In the Japanese countryside, the richest landlords did not work on the farms but lived on rent collected from tenant farmers. This unhappiness led to uprisings like the Rice Riots of 1918 |
+| Changing Role of Women | Traditionalists blamed working women as it was a threat to traditional Japanese society and values, as many women found jobs in cafes and restaurants, and some became active in politics   |

@@ -1,0 +1,4 @@
+# Example
+| Case Study                     | Example                                                                                                                                                                                                    |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26 February 1936 Military Coup | Young Imperial Way officers attempted a coup to assassinate key government leaders to honour the Emperor. However, the Emperor condemned the uprising, leading to its failure and the leaders' executions. |

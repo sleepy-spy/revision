@@ -1,0 +1,7 @@
+# Hitler's Mistakes
+- On 24 May 1940, Hitler issue the order for his panzer division to halt, denying Germany the chance to encircle the British Expeditionary Force Dunkirk
+- A critical error Hitler made was during the siege of Stalingrad. In 1942, German forces attacked Stalingrad and met stubborn resistance from Soviet troops. Even though Stalingrad was not very valuable from a strategic point of view, Hitler wanted to take Stalingrad out of pride as the city was named after Stalin
+- Hitler decided to declare war on the United States four days after Pearl Harbour even if he didn't have to under the terms of the Tripartite Pact signed with Japan and Italy, which brought the United States into the European theatre of war.
+# Poor Planning
+- The Germans put too many resources into building giant battleships such as Bismarck and Tirpitz, and failed to build aircraft carriers.
+- The Germans never developed heavy bombers like the RAF's Lancaster or the US' B-17, and German bombers were too small and could not carry enough bombs.
