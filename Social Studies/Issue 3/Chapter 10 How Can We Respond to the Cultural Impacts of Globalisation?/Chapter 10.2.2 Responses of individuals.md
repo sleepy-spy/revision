@@ -1,3 +1,5 @@
+# Definition
+- Individuals and communities may choose to actively consume foreign cultural products, and embrace the ideas values and beliefs they promote. They may also resist the influences of cultural globalisation or reject foreign products
 # Examples
 | Case Studies            | Examples                                                                                                                                                                                                                                                                                                   |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

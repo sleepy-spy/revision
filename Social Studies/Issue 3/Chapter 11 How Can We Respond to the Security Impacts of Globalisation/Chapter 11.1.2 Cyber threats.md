@@ -1,0 +1,6 @@
+# Definition
+- Refers to unauthorised access to online information and data, with digital connectedness making cybersecurity an important concern
+# Examples
+| Case Study                      | Example                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lattitude Financial Cyberattack | Latitude financial suffered a massive cyberattack in March 2023, the largest known data breach of an Australian financial institution., with 14 million customer records stolen. This included 7.9 million Australian and New Zealand driver's license numbers, 53000 passport numbers and 5.7 million records that were provided before 2013 |

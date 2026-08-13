@@ -1,3 +1,5 @@
+# Definition
+- Individuals can continually acquire new knowledge and skills throughout their life to stay relevant. The can also have an open mindset about exploring employment in different fields, and they can also save and invest properly to ensure they have sufficient financial resources when switching jobs or developing new skills
 # Examples
 | Case Studies                | Examples                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,4 @@
-# Definition
+  # Definition
 - When a person has legal status as a citizen, it means that a person who has it is recognised by law as a member of a country. Being a citizen grants rights to citizens, as well as obligations which citizens have to fulfil as members of the country.
 # Examples
 | Case Studies                             | Examples                                                                                                                                                                                                                                                                                                                        |

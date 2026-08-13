@@ -1,5 +1,5 @@
 # Definition
-- Influencing decision-making in public affairs involved making sound decisions to resolve societal problems. These problems are often complex and reqiuire longer-term solutions
+
 # Examples
 | Case Study                             | Example                                                                                                                                                                                                                                                                                                           |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

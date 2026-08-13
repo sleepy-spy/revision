@@ -1,0 +1,6 @@
+# Definition
+- Where terrorists launch violent attacks beyond their country's borders to achieve their social or political objectives. They also spread terrorist propaganda and extremist ideologies, as well as recruit members from around the world
+# Examples
+| Case Study           | Examples                                                                                                                                                                                                                                                                                                             |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| September 11 Attacks | On 11 September 2001, within 102 minutes, 19 terrorists from Al-Qaeda hijacked four American aeroplanes and crashed them into various locations in the United States. The attacks killed over 3000 people, resulted in over 25000 injuries and caused infrastructure and property damage amounting to US $10 Billion |

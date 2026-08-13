@@ -1,5 +1,5 @@
 # Definition
-- Local cultures can risk being diluted, or lose their significance or distinctiveness. This is because people become more immersed in global cultural products and lifestyles, the practice of local cultures or ethnic traditions may become less widespread
+- Process in which local cultures are altered by the foreign cultures to become more similar to the foreign cultures, resulting in the dominance of the foreign culture
 # Examples
 | Case Studies          | Examples                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 # Definition
-- Providing a stake for everyone, opportunities for all means that citizens will have a say in decision-making, which leads to them being more willing to be involved in promoting the good of society
+
 # Examples
-| Case Studies                | Examples                                                                                                                                                                                                                                                     |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Singapore Together movement | It was launched in June 2019 and allows citizens to partner the government and one another to shape and act on a shared future in areas they care about. This act can be through partnership opportunities or government support for citizen-led initiatives |
+| Case Studies                | Examples                                                                                                                                                                                                                                                                                                                     |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Singapore Together movement | It was launched in June 2019 and allows citizens to partner the government and one another to shape and act on a shared future in areas they care about. This is primarily done through Alliances for Action, which brings together citizens and community groups working with the government to develop solution prototypes |
