@@ -4,5 +4,6 @@
 	- Germany to be decided into four zones: US, French, British and Soviet; the German capital, Berlin, to also be divided into four zones even though it was deep into Soviet zone
 - Disagreements
 	- Stalin wanted Soviet border to move into Poland and argued that Poland could move its borders westwards into Germany, to the disagreement of Churchill and Roosevelt
-# The Potsdam Conference
-- 
+
+
+
