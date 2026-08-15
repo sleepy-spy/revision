@@ -6,3 +6,4 @@
 # Gorbachev's Resignation and the End of the Cold War
 - After the coup, Gorbachev returned to Moscow. On 25 December 1991, he made a televised speech to announce his resignation as the president of the USSR and the end of the USSR
 - Thus, the Cold War ended.
+# END OF HISTORY
