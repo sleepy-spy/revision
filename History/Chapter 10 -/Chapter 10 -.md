@@ -1,1 +1,0 @@
-[[Weakness of USSR]]
